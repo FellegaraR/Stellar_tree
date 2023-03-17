@@ -96,7 +96,7 @@ This latter command generates a portable library file, located into `lib` folder
 
 The compilation has been test on linux and mac systems.
 
-### Execute unit tests ###
+<!-- ### Execute unit tests ###
 
 Once compiled, it is possible to test the main functionalities running a script located into the `dist` folder.
 
@@ -115,7 +115,8 @@ It is possible to clean the output files running from command line (from `data` 
 
 sh clean_up.sh
 ```
+-->
 
 ### Use the main library ###
 
-In the `dist` folder there is another executable file named `stellar_suite` that contains the main library interface. For a complete list of the command line options refer the [wiki](https://bitbucket.org/riccardo_fellegara/stellar-library/wiki/Command%20line%20parameters) page.
+In the `dist` folder there is another executable file named `stellar_suite` that contains the main library interface. For a complete list of the command line options refer the [wiki](https://github.com/FellegaraR/Stellar_tree/wiki/Command-Line-Parameters) page.
